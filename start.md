@@ -30,12 +30,12 @@
 
 ### Python
 - [ ] Python Tricks (Dan Bader)
-- [ ] Black Hat Python
+- [ ] Black Hat Python (Seitz & Arnold)
 
 ### Go
 - [x] Go in Action (William Kennedy et al.)
 - [ ] Build Systems with Go (Juan M. Tirado)
-- [ ] Black Hat Go
+- [ ] Black Hat Go (Steele, Patton & Kottmann)
 
 ### Hardware
 - [ ] How Computers Really Work (Matthew Justice)
