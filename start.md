@@ -11,10 +11,15 @@
 ### Networks
 - [x] CompTIA Network+ (Udemy, Kevin Wallace)
 - [ ] Network Basics for Hackers (Occupy the Web)
+- [ ] Attacking Network Protocols (James Forshaw)
 
-### Hacking
+### Hacking (Misc.)
 - [x] Ethical Hacking for Beginners (Udemy, Kevin Wallace)
 - [ ] Getting Started Becoming a Master Hacker (Occupy the Web)
+- [ ] Bug Bounty Bootcamp (Vickie Li)
+- [ ] Cybersecurity Ops with bash (Troncone & Albing)
+- [ ] Ethical Hacking (Daniel G. Graham)
+- [ ] Gray Hat Hacking (Harper et al.)
 
 ### Practical Network Penetration Tester (Certificate, TCM Security)
 - [ ] Practical Ethical Hacking
@@ -33,4 +38,11 @@
 - [ ] Black Hat Go
 
 ### Hardware
-- [ ] 
+- [ ] How Computers Really Work (Matthew Justice)
+
+### SQL
+- [ ] Practical SQL (Anthony DeBarros)
+
+### Frontend
+- [ ] Web Design Playground (Paul McFedries)
+- [ ] Eloquent Javascript (Marijn Haverbeke)
