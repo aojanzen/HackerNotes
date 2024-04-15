@@ -5,23 +5,32 @@
 ## Topics
 
 ### Linux
-#### Linux 101
-#### Linux Basics for Hackers
+- [x] Linux 101 (TCM Security)
+- [x] Linux Basics for Hackers (Occupy the Web)
 
 ### Networks
-#### Network Basics for Hackers
+- [x] CompTIA Network+ (Udemy, Kevin Wallace)
+- [ ] Network Basics for Hackers (Occupy the Web)
+
+### Hacking
+- [x] Ethical Hacking for Beginners (Udemy, Kevin Wallace)
+- [ ] Getting Started Becoming a Master Hacker (Occupy the Web)
+
+### Practical Network Penetration Tester (Certificate, TCM Security)
+- [ ] Practical Ethical Hacking
+- [ ] OSINT Fundamentals
+- [ ] Windows Privilege Escalation
+- [ ] Linux Privilege Escalation
+- [ ] External Pentest Playbook
 
 ### Python
-#### Black Hat Python
+- [ ] Python Tricks (Dan Bader)
+- [ ] Black Hat Python
 
 ### Go
-#### Black Hat Go
+- [x] Go in Action (William Kennedy et al.)
+- [ ] Build Systems with Go (Juan M. Tirado)
+- [ ] Black Hat Go
 
 ### Hardware
-
-### Practical Network Penetration Tester (TCM Security)
-#### Practical Ethical Hacking
-#### OSINT Fundamentals
-#### Windows Privilege Escalation
-#### Linux Privilege Escalation
-#### External Pentest Playbook
+- [ ] 
