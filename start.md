@@ -23,9 +23,9 @@
 
 ### Practical Network Penetration Tester (Certificate, TCM Security)
 - [ ] Practical Ethical Hacking
-- [ ] OSINT Fundamentals
 - [ ] Windows Privilege Escalation
 - [ ] Linux Privilege Escalation
+- [ ] OSINT Fundamentals
 - [ ] External Pentest Playbook
 
 ### Python
