@@ -39,7 +39,7 @@
 
 ### Hardware
 - [ ] How Computers Really Work (Matthew Justice)
-
+- [ ] Creative DIY Microcontroller Projects with Tinygo and Webassembly (Theel)
 ### SQL
 - [ ] Practical SQL (Anthony DeBarros)
 
