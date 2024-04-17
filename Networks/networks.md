@@ -5,8 +5,8 @@
 2. Subnetting and CIDR
 3. Network Analysis
 4. Linux Firewalls
-5. [WiFi Networks and Hacking](./LinuxBasics4Hackers/wifi.md)  
-6. [Bluetooth Networks](./LinuxBasics4Hackers/bluetooth.md)  
+5. [WiFi Networks and Hacking](./NetworkBasics4Hackers/wifi.md)  
+6. [Bluetooth Networks](./NetworkBasics4Hackers/bluetooth.md)  
 7. Address Resolution Protocol (ARP)
 8. Domain Name Service (DNS)
 9. Server Message Block (SMB)
