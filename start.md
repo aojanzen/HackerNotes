@@ -7,6 +7,7 @@
 ### Linux
 - [x] Linux 101 (TCM Security)
 - [x] Linux Basics for Hackers (Occupy the Web)
+- [ ] How Linux Works (Brian Ward)
 
 ### [Networks](./Networks/networks.md)
 - [x] CompTIA Network+ (Udemy, Kevin Wallace)
@@ -40,6 +41,7 @@
 ### Hardware
 - [ ] How Computers Really Work (Matthew Justice)
 - [ ] Creative DIY Microcontroller Projects with Tinygo and Webassembly (Theel)
+
 ### SQL
 - [ ] Practical SQL (Anthony DeBarros)
 
